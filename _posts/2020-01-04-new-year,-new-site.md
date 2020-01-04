@@ -1,0 +1,7 @@
+
+Yes, you've heard that. New year, new site. I've decided to move from Amazon AWS to
+GitHub pages. I haven't had time to add new posts, so there was no point on
+keeping it there.
+
+Hopefully, this year, I'll be able to add some posts. PhD program takes a lot of
+time... so... we'll see!
