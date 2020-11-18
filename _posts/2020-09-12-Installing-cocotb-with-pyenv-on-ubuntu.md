@@ -33,7 +33,7 @@ and
 [related softwares](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html){:target="_blank"} 
 I  use in  my work.  So before  adopting Pyenv  I was  somewhat stuck  to Python
 versions  2.7.12  and  3.5.2.   To  run  other,  I  used  to  use  the
-`virtualenv` + environment variables approach. **No fun at all!!**. I was often running
+`virtualenv` + environment variables approach. **Not fun at all!!**. I was often running
 into problems.  Pyenv presents an elegant solution for these headaches.
 
 We here go through the procedure to install Pyenv, Python 3.6.8 and Cocotb (at
