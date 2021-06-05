@@ -3,6 +3,18 @@ title: About
 ---
 Hi, nice to meet you. I’m Lucas Brasilino.
 
-I’ve been envolved with system administration, network administration and freesoftware/opensource technologies since 1995. So many solutions and implementations I’ve done in these 19 years, but I’ve never had a blog 🙂 Now I came back to academia to do a Masters in network field, focusing on Software Defined Network and Network Virtualization.
+I'm an PhD Candidate at [ISE](https://engineering.indiana.edu/){:target="_blank"}/IU working on In-network computing,
+High Performance Computing, and low latency data processing with heterogeneous systems and FPGAs.
 
-Now I have some new interests, like Software Defined Network, OpenFlow, Mininet, Network Virtualization, Cloud Computing, FPGA, NetFPGA etc.. etc.. etc. That’s why I created this blog. Enjoy!
+My areas of interests are:
+
+  * FPGAs
+  * System-on-Chips
+  * Low latency processing
+  * Computer networks
+  * Operating systems
+  * CPU ⬄ FPGA integration, both software and hardware
+  * And more...
+
+
+You may contact me at _lucas &#183; brasilino &#64; gmail &#183; com_
