@@ -19,7 +19,7 @@ setting up `virtualenv`s and a bunch of environment variables.
 If for any reason you use an older distribution, chances are that you also want to use a
 software like `jupiter`, `numpy` or `TensorFlow` that might ask for an updated
 Python version. You are in a dilemma: *"if I update, I break the system, if not,
-I can't use cool softwares out there."*
+I can't use cool software out there."*
 
 Enter   [**Pyenv**](https://github.com/pyenv/pyenv){:target="_blank"}.  It   was
 developed to resolve  that problem. You can install as  many Python versions you
