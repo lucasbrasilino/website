@@ -33,6 +33,7 @@ $ tree axis_exec_op/
 axis_exec_op/
 ├── hdl
 │   ├── axis_exec_op.sv
+│   ├── axis_exec_op_wrapper.v
 │   ├── easyaxil_out.v
 │   ├── fallthrough_small_fifo_v2.v
 │   └── small_fifo_v3.v
