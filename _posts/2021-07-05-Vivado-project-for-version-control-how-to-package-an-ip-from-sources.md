@@ -15,6 +15,14 @@ sources.
 Keep in mind there are other ways to get the job done. But I've been using this flow for at least four
 years with good results. Feel free to adapt to your needs.
 
+# Prerequisites
+
+For this post, we'll be using Vivado 2020.2. The source code used here is available at:
+
+(https://github.com/lucasbrasilino/axis_exec_op)
+
+And, yes, consider starring the repository. ;-)
+
 # IP file organization
 
 Our example IP is called `axis_exec_op`. Its job is to apply some operation over 32-bit words delivered to an AXI4
