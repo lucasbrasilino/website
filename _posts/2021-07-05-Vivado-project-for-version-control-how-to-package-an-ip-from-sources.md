@@ -19,7 +19,7 @@ years with good results. Feel free to adapt to your needs.
 
 For this post, we'll be using Vivado 2020.2. The source code used here is available at:
 
-[https://github.com/lucasbrasilino/axis_exec_op](https://github.com/lucasbrasilino/axis_exec_op)
+[https://github.com/lucasbrasilino/axis_exec_op](https://github.com/lucasbrasilino/axis_exec_op){:target="_blank"}
 
 And, yes, please consider starring the repository. ;-)
 
